@@ -1,2 +1,2 @@
-# EasyStripBar
-Easy way to do strip bar in iOS
+# EasyTabStrip
+Easy way to do tab strip in iOS
