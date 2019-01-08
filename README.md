@@ -1,4 +1,4 @@
 # EasyTabStrip
 Easy way to do tab strip in iOS
 
-![Alt Text](https://gfycat.com/FlickeringAstonishingBoto)
+![Easy Tab Strip in Action](https://thumbs.gfycat.com/FlickeringAstonishingBoto-size_restricted.gif)
